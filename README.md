@@ -63,8 +63,10 @@ Your React app will now open in your browser at:
 
 ```
 📂 shopping-website
- ┣ 📂 src
- ┃ ┣ 📂 components
+ ┣📂 public
+ ┃ ┣ 📜 index.html
+ ┣📂 src
+ ┃ ┣ 📂 MyComponents
  ┃ ┃ ┣ 📜 Header.js
  ┃ ┃ ┣ 📜 Body.js
  ┃ ┃ ┣ 📜 Footer.js
